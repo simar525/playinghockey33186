@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.bookbattleshirts.com/shrishversion/$1"
+ }
+  ]
+}
